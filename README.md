@@ -1,7 +1,1 @@
-
-totally different value
-
-# IITRepository
-
-changed value CopyA in order to conflict later
-
+changing value for new branch
